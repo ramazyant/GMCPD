@@ -1,0 +1,15 @@
+giotto_tda==0.6.0
+imblearn==0.0
+matplotlib==3.7.4
+numpy==1.22.0
+pandas==2.0.3
+persim==0.3.1
+roerich==0.6.0
+ruptures==1.1.3
+scikit_learn==1.2.2
+scipy==1.12.0
+tire_pytorch==0.1.0
+torch==1.9.1
+tqdm==4.62.3
+git+https://github.com/HolyBayes/klcpd
+git+https://github.com/HolyBayes/TIRE_pytorch
